@@ -13,3 +13,5 @@ Imports:
 RoxygenNote: 6.1.1
 Suggests: 
     testthat
+URL: https://github.com/SandyZZZZ/mytvscore
+BugReports: https://github.com/SandyZZZZ/mytvscore/issues
